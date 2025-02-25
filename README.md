@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build innovative projects. Here's a little bit about me:
 
-![My Profile Image](<img src="https://firebasestorage.googleapis.com/v0/b/asfsg-538c3.appspot.com/o/IMG_20241206_174959.jpg?alt=media&token=adc6ab91-f5dc-408c-b1de-7498fb0301bc" width="200">)
+![My Profile Image](https://firebasestorage.googleapis.com/v0/b/asfsg-538c3.appspot.com/o/1.jpg?alt=media&token=4b840e63-a0b7-41e5-b910-ff037ab7eda2)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on various open-source projects.

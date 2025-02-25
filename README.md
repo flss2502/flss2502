@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build innovative projects. Here's a little bit about me:
 
-![My Profile Image](https://drive.google.com/file/d/1ZrfrQyqTv5xknY7wt5Xj33cVEl5GiYB-/view?usp=sharing)
+![My Profile Image](https://firebasestorage.googleapis.com/v0/b/asfsg-538c3.appspot.com/o/IMG_20241206_174959.jpg?alt=media&token=adc6ab91-f5dc-408c-b1de-7498fb0301bc)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on various open-source projects.
@@ -44,6 +44,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flss2502&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/binhdx)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/binhdx)
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects. 😊

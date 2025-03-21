@@ -1,17 +1,6 @@
 # Hi there, I'm flss2502! 👋
-
-Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build innovative projects. Here's a little bit about me:
-
-![My Profile Image](https://firebasestorage.googleapis.com/v0/b/asfsg-538c3.appspot.com/o/1.jpg?alt=media&token=4b840e63-a0b7-41e5-b910-ff037ab7eda2)
-
 ## 🚀 About Me
-- 🔭 I’m currently working on various open-source projects.
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 👯 I’m looking to collaborate on exciting software development projects.
-- 🤔 I’m looking for help with mastering cloud computing.
-- 💬 Ask me about anything related to Java, C#, and software architecture.
-- 📫 How to reach me: [binhdx1101@gmail.com](mailto:binhdx1101@gmail.com)
-- 😄 Pronouns: He/Him
+- 🔭 I’m a recent graduate in Software Engineering. My expertise includes working with Spring Boot, ASP.NET, Firebase, and MySQL to build scalable and efficient applications.
 
 ## 🛠️ Languages and Tools
 ### Languages
@@ -44,6 +33,5 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flss2502&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/binhdx)
-
-Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects. 😊
+- LinkedIn: [binhdx](https://www.linkedin.com/in/binhdx)
+- Mail: [binhdx1101@gmail.com](mailto:binhdx1101@gmail.com)
